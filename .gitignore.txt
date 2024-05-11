@@ -1,0 +1,6 @@
+# Ignore Google services file
+google-services.json
+
+# Ignore Firebase configuration file
+firebase.json
+firebase_options.dart
